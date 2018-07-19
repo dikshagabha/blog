@@ -10,7 +10,7 @@ title: Books Reviews
 email: diksha.gabha95@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://bookreview.com" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  dikshagabha
