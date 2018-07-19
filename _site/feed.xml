@@ -3,10 +3,10 @@
   <channel>
     <title>Books Reviews</title>
     <description></description>
-    <link>http://bookreview.com/</link>
-    <atom:link href="http://bookreview.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Jul 2018 17:40:07 +0530</pubDate>
-    <lastBuildDate>Thu, 19 Jul 2018 17:40:07 +0530</lastBuildDate>
+    <link>http://bookreview.com/blog/</link>
+    <atom:link href="http://bookreview.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 19 Jul 2018 17:50:07 +0530</pubDate>
+    <lastBuildDate>Thu, 19 Jul 2018 17:50:07 +0530</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Thu, 19 Jul 2018 00:00:00 +0530</pubDate>
-        <link>http://bookreview.com/mypageurl/</link>
-        <guid isPermaLink="true">http://bookreview.com/mypageurl/</guid>
+        <link>http://bookreview.com/blog/mypageurl/</link>
+        <guid isPermaLink="true">http://bookreview.com/blog/mypageurl/</guid>
         
         
         <category>jekyll</category>
@@ -63,8 +63,8 @@ DKS,
 [jekyll-talk]: https://talk.jekyllrb.com/
 </description>
         <pubDate>Thu, 19 Jul 2018 00:00:00 +0530</pubDate>
-        <link>http://bookreview.com/books</link>
-        <guid isPermaLink="true">http://bookreview.com/books</guid>
+        <link>http://bookreview.com/blog/books</link>
+        <guid isPermaLink="true">http://bookreview.com/blog/books</guid>
         
         
         <category>jekyll</category>
